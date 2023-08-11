@@ -11,10 +11,8 @@ It analyses everyday language that we used in communication and produces number 
 
 ## Example:
 
-"We were unable to retrieve the data by     --->         Text           --->   Database Issue
-     pressing the request button"                    Classification
+"We were unable to retrieve the data by pressing the request button"     --->     Text  Classification     --->   Database Issue
                                                      
-
 ## Required Libreries:
 #### You need to install in your terminal:
 
