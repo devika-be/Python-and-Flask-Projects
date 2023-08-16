@@ -14,12 +14,12 @@ It analyses everyday language that we used in communication and produces number 
 "We were unable to retrieve the data by pressing the request button"     --->     Text  Classification     --->   Database Issue
                                                      
 ## Required Libreries:
-#### You need to install in your terminal:
+### You need to install in your terminal:
 
-pip install flask
-pip install textblob
-pip install flask_bootstrap
+##### pip install flask
+##### pip install textblob
+##### pip install flask_bootstrap
 
-#### Then run the application:
+### Then run the application:
 
-python app.py
+##### python app.py
